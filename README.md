@@ -1,0 +1,1 @@
+# Go Gin crud with jwt authentication and swagger integration
